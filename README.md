@@ -1,19 +1,24 @@
-# 💰 Money Builder App
+💰 Money Builder App
 
-A simple and responsive money tracking app built with React + Vite.
+A simple, responsive money tracking application built with **React + Vite**.  
+It helps users track savings, add contributions, and view total financial growth in real time.
 
-React Concepts Used
+Features
 
-- useState (state management)
-- Props (component communication)
-- Event handling
-- Conditional rendering
-- Component composition
+- Add original savings baseline
+- Add additional savings entries
+- Automatic total calculation
+- Live growth history tracking
+- Clean component-based UI
+- Responsive layout
 
-Tech Stack
+ React Concepts Used
 
-- React
-- Vite
-- JavaScript
-- CSS
+- `useState` for state management
+- Props for component communication
+- Component composition (reusable UI blocks)
+- Event handling (inputs & buttons)
+- Conditional rendering (history display)
+
+
 
