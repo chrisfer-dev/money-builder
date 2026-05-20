@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function HistoryList({ history }) {
+export default function HistoryList({ history = [] }) {
   return (
     <div className="history">
       <h2>Growth History</h2>
