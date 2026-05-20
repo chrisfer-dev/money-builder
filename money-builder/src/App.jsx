@@ -27,7 +27,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>💰 Savings Tracker</h1>
+      <h1>💰 Money Builder</h1>
 
       <div className="cardGrid">
         <SavingsCard title="Original Savings">
