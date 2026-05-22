@@ -14,7 +14,7 @@ Features
 
  React Concepts Used
 
-- `useState` for state management
+- useState for state management
 - Props for component communication
 - Component composition (reusable UI blocks)
 - Event handling (inputs & buttons)
